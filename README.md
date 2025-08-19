@@ -35,6 +35,8 @@ Serviço de Internet (servico_internet_Fiber optic): Clientes com fibra óptica 
 
 Método de Pagamento (metodo_pagamento_Electronic check): Um indicador surpreendentemente forte de risco de churn.
 
+![Matriz de Correlação](correlation_heatmap.png)
+
 ## Modelo Final
 
 A escolha do Random Forest Otimizado como o modelo de produção se justifica pelos seguintes motivos:
